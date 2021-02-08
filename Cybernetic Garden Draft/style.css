@@ -1,7 +1,7 @@
 body{
     background-color:black;
     background-image: url("assets/technology_and_nature_duality_by_corrupttitan-d9eylp3.png");
-    background-size: contain;
+    background-size:cover;
     background-repeat: no-repeat;
 }
 
@@ -10,9 +10,9 @@ body{
     font-size: 40px;
 }
 .computer{
-    height: auto;
-    display: flex;
-    justify-content: center;
+    top:20%;
+    left:30%;
+    position: absolute;
     
 }
 
