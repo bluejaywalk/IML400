@@ -6,11 +6,16 @@ body {
 }
 
 #scrolltext1 {
-    color: orangered;
-    font-size: 40px;
+    color: rosybrown;
+    font-size: 80px;
+    text-align: center;
 }
 
 #leftscroll{
+    color: orangered;
+    font-size: 30px;
+}
+#rightscroll{
     color: orangered;
     font-size: 30px;
 }
