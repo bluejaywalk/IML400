@@ -1,0 +1,48 @@
+body{
+    background-color: lightcyan;
+}
+
+
+.container{
+    width: 100%;
+  
+}
+.about{
+    box-sizing: border-box;
+    width: 50%;
+    border: 10px solid red;
+    float: left;
+    text-align: center;
+}
+
+.Presentation{
+     box-sizing: border-box;
+    width: 50%;
+    border: 10px solid purple;
+    float: right;
+    text-align: center;
+}
+
+.Projects{
+     box-sizing: border-box;
+    width: 50%;
+    border: 10px solid blue;
+    float: right;
+    text-align: center;
+}
+
+.Exercises{
+     box-sizing: border-box;
+    width: 50%;
+    border: 10px solid pink;
+    float: left;
+    text-align: center;
+}
+
+.Thoughts{
+     box-sizing: border-box;
+    width: 50%;
+    border: 10px solid yellow;
+    float: left;
+    text-align: center;
+}
