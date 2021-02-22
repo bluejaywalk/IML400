@@ -6,3 +6,4 @@
 
 ### Description
 
+I'm tired of seeing digital and physical mediums pitted against each other, so my cybernetic garden emphasizes the strengths of both. I decided digitize some of my physical polaroids, creating an image/picture that is a hybrid between physical and digital forms. This site explores what it means to exist in both mediums, and why both are important in our human lives.
