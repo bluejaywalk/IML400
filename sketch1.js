@@ -5,7 +5,7 @@ function windowResized(){
 }
 
 function setup(){
-    colorMode(HSB);
+    colorMode(HSB, 255, 100, 100);
     canvas = createCanvas(windowWidth, windowHeight);
     canvas.position(0,0);
     canvas.style('z-index', '-1')
@@ -13,5 +13,6 @@ function setup(){
 
 function draw(){
   clear();
-    background((mouseX/5)%255, 255, 255)
+  // background((mouseX/5)%50, 30, 70);
+    
 }
